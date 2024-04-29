@@ -16,13 +16,13 @@ To get started with this template, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Harsh-Decoded/vite-react-starter.git
+    git clone https://github.com/Harsh-Decoded/vite-reactJs-shadcn-js-starter.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd vite-react-starter
+    cd vite-reactJs-shadcn-js-starter
     ```
 
 3. Install dependencies using npm or yarn:
@@ -49,7 +49,7 @@ Feel free to customize this template according to your project needs. Here are a
 
 - **Styles:** Update styles in the `src/styles` directory to match your design requirements.
 - **Components:** Add or modify React components in the `src/components` directory.
-- **Pages:** Create new pages or modify existing ones in the `src/pages` directory.
+- **Pages:** Start Editing From `src/App.jsx` file.
 
 ## Contributing
 
