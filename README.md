@@ -47,7 +47,7 @@ To get started with this template, follow these steps:
 
 Feel free to customize this template according to your project needs. Here are a few areas you might want to consider:
 
-- **Styles:** Update styles in the `src/styles` directory to match your design requirements.
+- **Styles:** Update styles in the `src/globals.css` file to match your design requirements You can use [Shadcn theme Page](https://ui.shadcn.com/themes) to customize your favorite colors.
 - **Components:** Add or modify React components in the `src/components` directory.
 - **Pages:** Start Editing From `src/App.jsx` file.
 
